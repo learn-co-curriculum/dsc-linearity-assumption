@@ -184,7 +184,7 @@ You can see curvature in this plot, just like we saw in the simple linear regres
 
 #### Partial Regression Plots
 
-Partial regression plots dig into each of the individual predictors to see whether they relationship with the target is linear, all else being equal. This tends to be more useful than a partial regression plot for diagnosing the particular problem with the model, although it can mean a lot of plots if your model has a lot of variables.
+Partial regression plots dig into each of the individual predictors to see whether the relationship with the target is linear, all else being equal. This tends to be more useful than residual plot for diagnosing the particular problem with the model, although it can mean a lot of plots if your model has a lot of variables.
 
 We are looking for a linear trend in each partial regression plot.
 
